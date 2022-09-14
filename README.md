@@ -17,6 +17,5 @@
 
 
 
-![](https://raw.githubusercontent.com/resatakks/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/resatakks/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
+https://github-readme-streak-stats.herokuapp.com/?user=resatakks
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=resatakks&theme=dark&background=000000)](https://git.io/streak-stats)
