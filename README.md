@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Resat</h1>
 <h3 align="center">A passionate frontend developer from Freelance</h3>
 
-- 🌱 I’m currently learning **Ethers**
+- 🌱 I’m currently learning **Ethers Vue3 **
 
 - 📫 How to reach me **Resatakkus10@gmail.com**
 
